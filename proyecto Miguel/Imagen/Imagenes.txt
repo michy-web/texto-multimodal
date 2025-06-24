@@ -1,0 +1,6 @@
+Imagenes
+
+  &lt;section&gt;
+    &lt;h3&gt;Imagen representativa&lt;/h3&gt;
+    &lt;img src="ruta-de-la-imagen.jpg" alt="Ilustración de la obra" style="max-width:100%; height:auto;"&gt;
+&lt;/section&gt;
